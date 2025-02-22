@@ -7,8 +7,6 @@ Travlog is a modern, responsive travel agency landing page built using HTML, CSS
  
 ✔️ Fully responsive design for mobile, tablet, and desktop views
 
-✔️ Interactive UI with smooth animations
-
 ✔️ Bootstrap-powered grid system and components
 
 ✔️ Modern and visually appealing layout
@@ -27,7 +25,11 @@ Travlog is a modern, responsive travel agency landing page built using HTML, CSS
 
 # Live Demo
 
-[ View Travlog Landing Page ](https://travlog4sk.ccbp.tech/)
+[ View Developed Travlog Landing Page ](https://travlog4sk.ccbp.tech/)
+
+
+[ View Figma Inspiration File ](https://www.figma.com/community/file/1332575034408033885)
+
 
 
 # Installation
@@ -47,10 +49,19 @@ Travlog is a modern, responsive travel agency landing page built using HTML, CSS
 
 # Result
 
-![result](src/assets//1.jpeg)
+- **Device Size**: Desktop (Large)
+
+![result](assets//1.jpeg)
 
 
-![result](src/assets//2.jpeg)
+
+- **Device Size**: Tablet (Medium)
+
+![result](assets//2.jpeg)
 
 
+
+- **Device Size**: Mobile (Small)
+
+![result](assets//3.jpeg)
 
